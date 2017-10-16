@@ -8,4 +8,4 @@ This repo consists the server.R and ui.R code and the link to the presentation m
 
 The [BMI Calculator](http://panmud.shinyapps.io/BMI_Calculator/) is available on the Shiny server.
 
-The presentation is available online at the [link](http://www.rpubs.com/PanMud/bmi)
+The presentation is available online at the [link](http://rpubs.com/PanMud/318852)
